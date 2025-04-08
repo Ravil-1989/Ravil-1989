@@ -19,7 +19,7 @@
 
 В свободное время изучаю и анализирую финансовые рынки фьючерсов и акций, где также требуется предварительный анализ, чтобы предсказать движение цены в будущем в краткосрочной и долгосрочной перспективе.
 
-Ссылки на портфолио в tableau: https://public.tableau.com/app/profile/ravil.ganeev/vizzes.
+Ссылка на портфолио в tableau: https://public.tableau.com/app/profile/ravil.ganeev/vizzes.
 
 ### Hard skills
 - Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, JSON, Folium, SQLAlchemy, SciPy, Scikit-learn, Phik, IPython
