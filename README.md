@@ -20,13 +20,13 @@
 
 Ссылки на портфолио в tableau: https://public.tableau.com/app/profile/ravil.ganeev/vizzes.
 
-###### Hard skills
+### Hard skills
 - Python: Pandas, Numpy, Matplotlib, Seaborn, Plotly, Re, JSON, Folium, SQLAlchemy, SciPy, Scikit-learn, Phik, IPython
 - SQL
 - Tableau
 - MS Excel, MS Power Point, Google Sheets
 
-###### Для связи
+### Для связи
 - [Telegram](https://t.me/Ravil_Gn)
 - Почта: ksorf@yandex.ru
 
