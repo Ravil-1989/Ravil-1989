@@ -16,7 +16,7 @@
 
 Имею мощное рабочее оборудование, необходимое для комфортной удалённой работы.
 
-Ссылка на портфолио в Tableau: https://public.tableau.com/app/profile/ravil.ganeev/vizzes.
+Портфолио в [Tableau](https://public.tableau.com/app/profile/ravil.ganeev/vizzes).
 
 ### Для связи
 - [Telegram](https://t.me/Ravil_Gn)
